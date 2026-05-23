@@ -13,5 +13,8 @@ This project is an AI-powered language translation tool built using Python and G
 - Gradio
 - deep-translator
 
+## Project UI link
+- https://6770197a021be1eef9.gradio.live
+
 ## 🎯 Internship Task
 Completed as part of CodeAlpha Artificial Intelligence Internship.
