@@ -14,9 +14,10 @@ This project is an AI-powered language translation tool built using Python and G
 - deep-translator
 
 ## Project UI
-## Project UI
 
 ![UI Screenshot](ui_screenshot.png)
+
+## UI Link
 - https://6770197a021be1eef9.gradio.live
 
 ## 🎯 Internship Task
